@@ -1,0 +1,67 @@
+
+div{
+    display: inline-block;
+    align-items: center;
+    margin-left: 60px;
+    
+}
+#b1{
+    margin-left: 550px;
+    margin-right: 10px;
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    border-width: 5px;
+    background-color: rgb(132, 131, 131);
+    border-color: rgb(39, 39, 39);
+    color: black
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    font-weight: 600;
+}
+#b2{
+     height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    border-width: 5px;
+    background-color:  rgb(132, 131, 131);
+    border-color: rgb(39, 39, 39);
+     color: black
+}
+nav{
+    background-color:rgba(124, 110, 145, 0.3)
+}
+h1{
+    font-family:Impact, 'Arial Narrow Bold', sans-serif ;
+     
+    
+}
+h3{
+    font-size: larger;
+    
+    display: flex;
+    justify-content: center;
+}
+
+main{
+   
+    display: flex;
+    justify-content: center;
+    
+
+}
+h2{
+    font-family:Impact, 'Arial Narrow Bold', sans-serif ;
+    font-size: 100px;
+    
+}
+body{
+    background: linear-gradient(rgba(0,0,0,0.2) rgba(0,0,0,0.5)),
+    url('wp4491077.jpg');
+    background-size: cover;
+    background-position: center;
+    
+}
